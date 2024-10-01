@@ -1,3 +1,6 @@
+### 3.1.2 1000
+-   Added link to creators 7TV profile to emote cards of 7TV emotes
+
 ### 3.1.1 3000
 
 -   Added support for animated FFZ emotes

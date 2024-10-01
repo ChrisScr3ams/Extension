@@ -22,6 +22,7 @@ user_card:
     hidden_subscription_status: Status hidden
     native: Open Native User Card
     no_messages: "{user} has not chatted here"
+    no_warnings: "{user} has not been warned before"
     no_timeouts: "{user} hasn't been timed out before"
     no_bans: "{user} hasn't been banned before"
     no_comments: "No mod comments have been written for {user}"
